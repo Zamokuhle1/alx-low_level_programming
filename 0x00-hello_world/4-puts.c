@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - main function 
- *
- * Return: o on success
- * /
 
 int main (void)
 {
